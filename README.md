@@ -20,7 +20,9 @@ Before you start, make sure you have:
 Go to [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/) and create a Spotify Developer Account
 - Create a new application.
 - Copy the Client ID and Client Secret.
-- Set a Redirect URI.
+- Set a Redirect URI
+
+ put all 3 in the code:
 
 ```python
 CLIENT_ID = 'your_client_id_here'
