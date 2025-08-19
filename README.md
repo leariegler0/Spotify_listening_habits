@@ -15,6 +15,7 @@ Before you start, make sure you have:
 - Installed Python packages: `spotipy` and `colorama`  
 - Have an active Spotify account
 
+---
 
 ## 2) Get Your Spotify API Credentials
 Go to [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/) and create a Spotify Developer Account
@@ -30,8 +31,12 @@ CLIENT_SECRET = 'your_client_secret_here'
 REDIRECT_URI = 'your_redirect_uri_here'
 ```
 
+---
+
 ## 3) Run Code in Terminal
 
 ```python
 python spotify_listening_stats.py
 ```
+
+---
