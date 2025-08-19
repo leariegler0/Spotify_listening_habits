@@ -2,8 +2,8 @@
 
 Discover your Spotify listening habits directly in your terminal! This Python script provides insights into:
 
-- **Now Playing** current track 
-- **Top Songs, Artists, Albums, and Genres** over different time periods (last 4 weeks, last 6 months, all time)  
+- **Now Playing**: current track 
+- **Top Songs, Artists, Albums, and Genres**: over different time periods (last 4 weeks, last 6 months, all time)  
 
 ---
 
