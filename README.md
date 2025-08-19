@@ -1,7 +1,3 @@
-# Spotify_listening_habits
-Discover your Spotify listening habits: Top Songs, Artists, Albums, and Genres*
-
-
 # 🎵 Spotify Statistics 🎵
 
 Discover your Spotify listening habits directly in your terminal! This Python script provides insights into:
