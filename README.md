@@ -11,7 +11,7 @@ Discover your Spotify listening habits directly in your terminal! This Python sc
 
 Before you start, make sure you have:
 
-- **Python 3.7 or higher**  
+- Python 3.7 or higher 
 - Installed Python packages: `spotipy` and `colorama`  
 - Have an active Spotify account
 
