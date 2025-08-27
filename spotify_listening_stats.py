@@ -75,7 +75,6 @@ def get_spotify_stats():
         artists = ', '.join([artist['name'] for artist in now_playing['item']['artists']])
         print(f"\nNow Playing: {colorize(track_name, 'deepblue')} - {colorize(artists, 'steelblue')}")
 
-    # Aufruf für alle Zeiträume
     print_top(sp, 'short_term', 'last 4 weeks')
     print_top(sp, 'medium_term', 'last 6 months')
     print_top(sp, 'long_term', 'last years')
